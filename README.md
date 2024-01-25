@@ -7,7 +7,7 @@
 - 💬 Ask me about k8s, dotnet
 
 <!--[
-- 📫 How to reach me: @SomaKurisu
+- 📫 How to reach me: @
 - 😄 Pronouns: 
 - ⚡ Fun fact:
   -->
