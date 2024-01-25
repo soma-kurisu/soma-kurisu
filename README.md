@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**soma-kurisu/soma-kurisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a ~~full~~ omni-stack weatherstation (i.e. from building the infrastructure for letting the electrons flow up weather forecast and action recommendation)
+- 🌱 I’m currently learning zig
+- 👯 I’m looking to collaborate on shogi
+- 🤔 I’m looking for help with blazor
+- 💬 Ask me about k8s, dotnet
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[
+- 📫 How to reach me: @SomaKurisu
+- 😄 Pronouns: 
+- ⚡ Fun fact:
+  -->
