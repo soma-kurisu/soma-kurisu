@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning zig
 - 👯 I’m looking to collaborate on shogi
 - 🤔 I’m looking for help with voron
-- 💬 Ask me about k8s, dotnet, GnuPG
+- 💬 Ask me about cryptography, dotnet, GnuPG, k8s, OpenTofu
 
 <!--[
 - 📫 How to reach me: @
