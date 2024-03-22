@@ -1,3 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <filter id="filter">
+        <feTurbulence baseFrequency="0.2"/>
+        <feColorMatrix values="0 0 0 9 -4
+                               0 0 0 9 -4
+                               0 0 0 9 -4
+                               0 0 0 0 1"/>
+    </filter>
+    <rect width="100%" height="100%" filter="url(#filter)"/>
+</svg>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a ~~full~~ omni-stack weatherstation (i.e. from building the infrastructure for letting the electrons flow up to weather forecasts and action recommendations upon them)
