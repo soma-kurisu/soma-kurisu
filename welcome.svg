@@ -28,7 +28,7 @@
                 color: white;
                 font-weight: 400;
                 font-family: 'Noto Sans', sans; 
-                animation: colorchange 10s infinite alternate;
+                animation: colorchange 10s alternate infinite;
               }
               @keyframes colorchange {
                 0% {
