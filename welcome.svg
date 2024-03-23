@@ -30,7 +30,6 @@
                 font-family: 'Noto Sans', sans; 
               }
             </style>
-            🛸
             <ul>
               <li>
                  🔭 I’m currently working on a ~~full~~ omni-stack weatherstation (i.e. from building the infrastructure for letting the electrons flow up to weather forecasts and action recommendations upon them)
