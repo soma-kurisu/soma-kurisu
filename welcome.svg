@@ -28,6 +28,21 @@
                 color: white;
                 font-weight: 400;
                 font-family: 'Noto Sans', sans; 
+                animation: colorchange 10s infinite alternate;
+              }
+              @keyframes colorchange {
+                0% {
+                  color: fuchsia;
+                }
+                33% { 
+                  color: white;
+                }
+                66% { 
+                  color: lime;
+                }
+                100% { 
+                  color: white;
+                }
               }
             </style>
             <ul>
